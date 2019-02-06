@@ -1,0 +1,9 @@
+{
+  "name": "yeetosaurus",
+  "version": "0.0.1",
+  "description": "Makes everything yeetable",
+  "main": "index.js",
+  "keywords": ["yeet"],
+  "author": "Jay Sargent",
+  "license": "ISC"
+}

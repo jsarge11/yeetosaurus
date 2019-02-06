@@ -1,0 +1,1 @@
+# Yeet instead of console.log
