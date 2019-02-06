@@ -1,9 +1,10 @@
 {
   "name": "yeetosaurus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Makes everything yeetable",
+  "repository": "https://github.com/jsarge11/yeetosaurus",
   "main": "index.js",
-  "keywords": ["yeet"],
+  "keywords": ["yeet", "yeetosaurus", "console", "log", "convenience"],
   "author": "Jay Sargent",
   "license": "ISC"
 }

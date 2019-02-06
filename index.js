@@ -1,5 +1,3 @@
-module.exports = {
- yeet: () => {
+module.exports = function yeet() {
   console.log('yeet');
  }
-}
